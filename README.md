@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**mateuszgorka/mateuszgorka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 My name is Mateusz, and I'm passionate about computer science (mostly excited about AI technology)
+🌱 I live in Warsaw (PJAIT student)
+💼 My latest project: [Language Detector based on Perceptron] [https://github.com/mateuszgorka/Perceptron-evaluation.git]
+📫 You can reach out to me at: [gorkamateusz405@gmail.com][mailto:gorkamateusz405@gmail.com]
 
-Here are some ideas to get you started:
+ 
+💻 I work with: 
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+          
