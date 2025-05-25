@@ -2,7 +2,7 @@
 
 🎯 My name is Mateusz, and I'm passionate about computer science (mostly excited about AI technology)  
 🌱 I live in Warsaw (PJAIT student)  
-💼 My latest project: [Language Detector based on Perceptron](https://github.com/mateuszgorka/Perceptron-evaluation.git)  
+💼 Latest Project that I contributed to: [Front-React based UI used in chat](https://github.com/Machine-Learning-Collective/mlc-brain-jet-client.git)  
 📫 You can reach out to me at: [gorkamateusz405@gmail.com](mailto:gorkamateusz405@gmail.com) 
 
 ---
