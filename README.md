@@ -2,7 +2,7 @@
 
 🎯 My name is Mateusz, and I'm passionate about computer science (mostly excited about AI technology)  
 🌱 I live in Warsaw (PJAIT student - student government member)  
-💼 Latest project I contributed to: [A React-based front-end UI used in a chat application](https://github.com/Machine-Learning-Collective/mlc-brain-jet-client.git)  
+💼 Latest project I contributed to: [Web API based app about F1 scores and more](https://github.com/mateuszgorka/f1Api.git)  
 📫 You can reach out to me at: [gorkamateusz405@gmail.com](mailto:gorkamateusz405@gmail.com) 
 
 ---
